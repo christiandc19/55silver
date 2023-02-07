@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/55silver/static/css/main.c2c5f427.css",
-    "main.js": "/55silver/static/js/main.554cd8c8.js",
+    "main.css": "/55silver/static/css/main.ff4e7e1e.css",
+    "main.js": "/55silver/static/js/main.ff2bc8ff.js",
     "static/media/menu-bg-west-hollywood.png": "/55silver/static/media/menu-bg-west-hollywood.5cfb379f0f407f5b0b7c.png",
     "static/media/venice-retreat1.png": "/55silver/static/media/venice-retreat1.9e4e62b22ff14f836cf8.png",
     "static/media/menu-bg-huntington-beach-min.png": "/55silver/static/media/menu-bg-huntington-beach-min.391a3cc07fbad9b9c42e.png",
-    "static/media/hero-bg2.jpg": "/55silver/static/media/hero-bg2.dc372676d34617617ed4.jpg",
+    "static/media/hero-bg2.jpg": "/55silver/static/media/hero-bg2.ab7b32b8b48394d2dd03.jpg",
     "static/media/whatwedo1.jpg": "/55silver/static/media/whatwedo1.21fe09cdbdecfa968cdd.jpg",
     "static/media/menu-bg-sober-living.jpg": "/55silver/static/media/menu-bg-sober-living.b6ea09ccc7a99ec36c14.jpg",
     "static/media/footer-bg.jpg": "/55silver/static/media/footer-bg.7e2cd81203200aca84ce.jpg",
@@ -41,11 +41,11 @@
     "static/media/icon-bed.jpg": "/55silver/static/media/icon-bed.51fc82feba595a72b3e0.jpg",
     "index.html": "/55silver/index.html",
     "static/media/waves.svg": "/55silver/static/media/waves.e42ddec972c9ec214abc0ac6e8439ee4.svg",
-    "main.c2c5f427.css.map": "/55silver/static/css/main.c2c5f427.css.map",
-    "main.554cd8c8.js.map": "/55silver/static/js/main.554cd8c8.js.map"
+    "main.ff4e7e1e.css.map": "/55silver/static/css/main.ff4e7e1e.css.map",
+    "main.ff2bc8ff.js.map": "/55silver/static/js/main.ff2bc8ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2c5f427.css",
-    "static/js/main.554cd8c8.js"
+    "static/css/main.ff4e7e1e.css",
+    "static/js/main.ff2bc8ff.js"
   ]
 }
