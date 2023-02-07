@@ -9,13 +9,13 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background: rgba(29, 28, 29, 0.5);
+    background: rgba(41, 40, 41, 0.562);
   }
   
   .hero:before {
     content: '';
     position: absolute;
-    background: url('../../assets/hero-bg2.jpg') no-repeat center center/cover;
+    background: url('../../assets/hero-bg2.jpg') no-repeat center top/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
