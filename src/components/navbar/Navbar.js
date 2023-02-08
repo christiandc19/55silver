@@ -3,6 +3,8 @@ import { FaBars, FaTimes } from 'react-icons/fa'
 import {NavLink, Link} from 'react-router-dom'
 import logo from '../../assets/nav-logo.png'
 import {FiChevronDown } from "react-icons/fi";
+import { AiOutlinePhone } from 'react-icons/ai';
+
 
 import './Navbar.css'
 
@@ -116,6 +118,12 @@ const Navbar = () => {
                 <div className="hamburger" onClick={handleNav}>
                     {!nav ? (<FaBars className='icon' />) : (<FaTimes className='icon' />)}
                 </div>
+
+                <div className='hide'>
+                <p><a href="tel:3235792196"> CONTACT US <span> <AiOutlinePhone /></span></a></p>
+                </div>
+
+
             </div>
         </div>
     )
