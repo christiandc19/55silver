@@ -18,38 +18,38 @@ const HuntingtonBeachSection = () => {
               <div className='homes container'>
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-1-768x567.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-retreat1-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-36-768x567.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-retreat2-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade right>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-4-768x567.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-retreat3-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-6-768x567.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-retreat4-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-7-768x567.png"width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-retreat5-min.png"width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade right>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-3-768x504.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-retreat6-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
@@ -60,37 +60,37 @@ const HuntingtonBeachSection = () => {
               <div className='homes container'>
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-9-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-relax1-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-10-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-relax2-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade right>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-17-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-relax3-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src= "https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-18-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src= "https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-relax4-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-38-768x499.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-relax5-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade right>
                     <div className='thumbnail'>
-                        <img src= "https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-47-768x502.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src= "https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-relax6-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
@@ -102,37 +102,37 @@ const HuntingtonBeachSection = () => {
               <div className='homes container'>
                 <Fade left>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-19-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-rest1-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-24-768x500.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-rest2-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-20-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-rest3-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade left>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-25-768x499.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-rest4-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-52-768x508.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-rest5-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-57-768x500.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-rest6-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
             </div>
@@ -143,19 +143,37 @@ const HuntingtonBeachSection = () => {
               <div className='homes container'>
                 <Fade left>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-12-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-gather1-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-33-768x510.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-gather2-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-34-768x510.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-gather3-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+              </div>
+              </Fade>
+
+              <Fade left>
+                  <div className='thumbnail'>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-gather4-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  </div>
+              </Fade>
+
+              <Fade top>
+                <div className='thumbnail'>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-gather5-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                </div>
+              </Fade>
+
+              <Fade right>
+              <div className='thumbnail'>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-gather6-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
             </div>        
@@ -167,19 +185,19 @@ const HuntingtonBeachSection = () => {
               <div className='homes container'>
                 <Fade left>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-21-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-clean1-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-22-768x499.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-clean2-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/3372-Venture-Drive-Huntington-Beach-28-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/huntington-clean3-min.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
             </div>  

@@ -20,38 +20,32 @@ const NorthCitrusSection = () => {
               <div className='homes container'>
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-1-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-retreat2-min.png" width="300" height="250" alt="Retreat" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-2-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-retreat3-min.png" width="300" height="250" alt="Retreat" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-19-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-retreat4-min.png" width="300" height="250" alt="Retreat" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-28-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-retreat5-min.png" width="300" height="250" alt="Retreat" loading="lazy"/>
                     </div>
                   </Fade>
 
                   
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-30-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
-                    </div>
-                  </Fade>
-
-                  <Fade top>
-                    <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-8-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-retreat6-min.png" width="300" height="250" alt="Retreat" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
@@ -62,19 +56,19 @@ const NorthCitrusSection = () => {
               <div className='homes container'>
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-3-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-relax1-min.png" width="300" height="250" alt="Dining Area" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-5-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-relax2-min.png" width="300" height="250" alt="Dining Area" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-6-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-relax3-min.png" width="300" height="250" alt="Dining Area" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
@@ -86,37 +80,37 @@ const NorthCitrusSection = () => {
               <div className='homes container'>
                 <Fade top>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-34-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-rest1-min.png" width="300" height="250" alt="Bedroom" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-35-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-rest2-min.png" width="300" height="250" alt="Bedroom" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-41-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-rest3-min.png" width="300" height="250" alt="Bedroom" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-43-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-rest4-min.png" width="300" height="250" alt="Bedroom" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-45-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-rest5-min.png" width="300" height="250" alt="Bedroom" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-48-768x514.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-rest6-min.png" width="300" height="250" alt="Bedroom" loading="lazy"/>
               </div>
               </Fade>
             </div>
@@ -127,19 +121,19 @@ const NorthCitrusSection = () => {
               <div className='homes container'>
                 <Fade top>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-7-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-gather1-min.png" width="300" height="250" alt="Dining Area" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-21-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-gather2-min.png" width="300" height="250" alt="Dining Area" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-22-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-gather2-min.png" width="300" height="250" alt="Dining Area" loading="lazy"/>
               </div>
               </Fade>
             </div>        
@@ -151,26 +145,26 @@ const NorthCitrusSection = () => {
               <div className='homes container'>
                 <Fade top>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-31-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-clean1-min.png" width="300" height="250" alt="Bathroom" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-37-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-clean2-min.png" width="300" height="250" alt="Bathroom" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-44-768x519.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-clean3-min.png"  width="300" height="250" alt="Bathroom" loading="lazy"/>
               </div>
               </Fade>
 
               
               <Fade top>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/823-N-Citrus-Ave-Los-Angeles-51-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/citrus-clean4-min.png"  width="300" height="250" alt="Bathroom" loading="lazy"/>
               </div>
               </Fade>
             </div>  

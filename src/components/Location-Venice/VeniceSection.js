@@ -20,38 +20,32 @@ const VeniceSection = () => {
               <div className='homes container'>
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-1-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-retreat2.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-2-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-retreat3.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade right>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-19-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-retreat4.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-20-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-retreat5.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-21-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
-                    </div>
-                  </Fade>
-
-                  <Fade right>
-                    <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-22-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-retreat6.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
@@ -62,19 +56,19 @@ const VeniceSection = () => {
               <div className='homes container'>
                   <Fade left>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-3-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-relax1.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-16-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-relax2.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade right>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-10-1-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-relax3.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
@@ -86,25 +80,25 @@ const VeniceSection = () => {
               <div className='homes container'>
                 <Fade left>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-6-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-rest1.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-11-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-rest2.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-14-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-rest3.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
 
               <Fade left>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-17-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-rest4.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
             </div>
@@ -115,19 +109,19 @@ const VeniceSection = () => {
               <div className='homes container'>
                 <Fade left>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-4-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-gather1.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-8-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-gather2.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-9-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-gather3.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
             </div>        
@@ -139,19 +133,19 @@ const VeniceSection = () => {
               <div className='homes container'>
                 <Fade left>
                   <div className='thumbnail'>
-                    <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-5-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                    <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-clean1.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                   </div>
               </Fade>
 
               <Fade top>
                 <div className='thumbnail'>
-                  <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-7-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                  <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-clean2.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
                 </div>
               </Fade>
 
               <Fade right>
               <div className='thumbnail'>
-                <img src="https://9silver.org/wp-content/uploads/2022/11/35-Wavecrest-Venice-12-768x512.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/venice-clean3.png" width="300" height="250" alt="Therapy Session" loading="lazy"/>
               </div>
               </Fade>
             </div>  

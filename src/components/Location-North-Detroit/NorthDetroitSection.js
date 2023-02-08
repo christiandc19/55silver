@@ -8,9 +8,6 @@ import './NorthDetroitSection.css'
 
 
 
-
-
-
 const NorthDetroitSection = () => {
   return (
 <>
@@ -25,33 +22,28 @@ const NorthDetroitSection = () => {
               <div className='homes container'>
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/748-N-Detroit-st-Los-Angeles-1-768x586.jpg" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/detroit1-min.jpg" width="300" height="250" alt="Home" loading="lazy"/>
                     </div>
                     </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/748-N-Detroit-st-Los-Angeles-2-768x586.jpg" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/detroit2-min.jpg" width="300" height="250" alt="Home" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/748-N-Detroit-st-Los-Angeles-3-768x586.jpg" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/detroit3.jpg" width="300" height="250" alt="Home" loading="lazy"/>
                     </div>
                   </Fade>
 
                   <Fade top>
                     <div className='thumbnail'>
-                        <img src="https://9silver.org/wp-content/uploads/2022/11/748-N-Detroit-st-Los-Angeles-4-1-768x586.jpg" width="300" height="250" alt="Therapy Session" loading="lazy"/>
+                        <img src="https://55silver.s3.us-west-1.amazonaws.com/55silver_medias/detroit3.jpg" width="300" height="250" alt="Home" loading="lazy"/>
                     </div>
                   </Fade>
               </div>
-
-
-  
-
-
 
 
 <div className="NorthDetroit-section-header container">
