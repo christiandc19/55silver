@@ -14,7 +14,8 @@ const Hero = () => {
 
         <div className='hero main-menu'>
         <div className='hero-divider'>
-                <img src={Wave} loading="lazy" repeat-x alt='wave divider'/>
+        <img src={Wave} loading="lazy" repeat-x alt='wave divider'/>
+
             </div>
                 <div className="hero-content">
                     <Fade left>
