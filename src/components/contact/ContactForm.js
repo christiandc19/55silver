@@ -69,7 +69,7 @@ const ContactForm = () => {
 
               </div>
               <div>
-                <textarea name="message" placeholder="How can we help?" cols="30" rows="3" required></textarea>
+                <textarea name="message" placeholder="How can we help?" cols="30" rows="8" required></textarea>
                 <input type="submit" value="Submit" />
               </div>
             </form>
