@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/55silver/static/css/main.febea973.css",
-    "main.js": "/55silver/static/js/main.bfdceeb2.js",
+    "main.css": "/55silver/static/css/main.ae048851.css",
+    "main.js": "/55silver/static/js/main.0a004fa2.js",
     "static/media/menu-bg-west-hollywood.png": "/55silver/static/media/menu-bg-west-hollywood.5cfb379f0f407f5b0b7c.png",
     "static/media/venice-retreat1.png": "/55silver/static/media/venice-retreat1.9e4e62b22ff14f836cf8.png",
     "static/media/menu-bg-huntington-beach-min.png": "/55silver/static/media/menu-bg-huntington-beach-min.391a3cc07fbad9b9c42e.png",
@@ -41,11 +41,11 @@
     "static/media/icon-bed.jpg": "/55silver/static/media/icon-bed.51fc82feba595a72b3e0.jpg",
     "index.html": "/55silver/index.html",
     "static/media/waves.svg": "/55silver/static/media/waves.e42ddec972c9ec214abc0ac6e8439ee4.svg",
-    "main.febea973.css.map": "/55silver/static/css/main.febea973.css.map",
-    "main.bfdceeb2.js.map": "/55silver/static/js/main.bfdceeb2.js.map"
+    "main.ae048851.css.map": "/55silver/static/css/main.ae048851.css.map",
+    "main.0a004fa2.js.map": "/55silver/static/js/main.0a004fa2.js.map"
   },
   "entrypoints": [
-    "static/css/main.febea973.css",
-    "static/js/main.bfdceeb2.js"
+    "static/css/main.ae048851.css",
+    "static/js/main.0a004fa2.js"
   ]
 }
